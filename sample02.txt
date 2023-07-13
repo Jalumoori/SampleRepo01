@@ -1,4 +1,1 @@
 This is sample file for test
-Adding this line from Local repo
-Adding this line to check pull
-Adding this line from feature01 branch
